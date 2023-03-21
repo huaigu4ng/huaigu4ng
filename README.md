@@ -1,4 +1,10 @@
-### Hi there 👋
+## About Me 👋
+
+- 📚 Offensive Security Researcher.
+- ⚡ Interested in Defense Evasion techniques.
+
+## Visit Count 🌱
+![Visitor Count](https://profile-counter.glitch.me/huaigu4ng/count.svg)
 
 <!--
 **huaigu4ng/huaigu4ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
